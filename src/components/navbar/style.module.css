@@ -1,0 +1,11 @@
+.header {
+  width: 100%;
+  padding: 1.25rem;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1500px;
+  margin: 0 auto;
+}

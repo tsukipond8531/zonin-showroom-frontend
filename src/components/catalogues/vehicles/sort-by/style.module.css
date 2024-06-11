@@ -1,0 +1,20 @@
+.sort,
+.sort_field {
+  display: flex;
+  align-items: center;
+}
+
+.sort {
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-between;
+}
+
+.sort_field {
+  gap: 10px;
+}
+
+.sort_available, .sort_by {
+  font-size: 14px;
+  color: var(--dark-gray);
+}
